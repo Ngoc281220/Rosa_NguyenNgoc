@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.checkour-modal{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4); 
+   
+    
+}
+.checkour-modal .checkour-modal-wraper{
+    margin: 10% auto 15% auto;
+    background-color: #fff;
+    max-width: 920px;
+    height: auto;
+    border-radius: 5px;
+    
+}
